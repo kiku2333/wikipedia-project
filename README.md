@@ -24,8 +24,8 @@ Contains all code for the wikipedia project.
         * ``get-group-graph-and-similarity.ipynb``: Get group revert graph and similarity matrix
         * ``compute-added-removed-words``: Get the top 100 added and removed words by revert graph and by revisions.
         * ``get-top-10-articles.ipynb``: Get the top 10 articles for each group by significant contributions and by mutual revert.
-        * ``get-mutual-revert-info.ipynb`: Get mutual and minimum revert info for each pair of groups. 
-        * ``TCM-top-ranked-group-sr-hl.ipynb`: Get the SR and HL for top ranked group pairs selected by their minimum revert.
+        * ``get-mutual-revert-info.ipynb``: Get mutual and minimum revert info for each pair of groups. 
+        * ``TCM-top-ranked-group-sr-hl.ipynb``: Get the SR and HL for top ranked group pairs selected by their minimum revert.
     * ``editor-article-revision-matrix.ipynb``: Create the editor-article matrix to show which editor contributes to which article by how many times.
 
 
