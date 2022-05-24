@@ -1,5 +1,6 @@
 # wikipedia-project
-Contains all code for the wikipedia project.
+Contains all code for the wikipedia project.\
+Provides results to [WhoColor-updates](https://github.com/kiku2333/WhoColor-updates).
 
 # Code files
 
